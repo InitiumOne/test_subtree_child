@@ -1,0 +1,4 @@
+test file line1
+test file line2
+test file line3
+test file line4_commit3
