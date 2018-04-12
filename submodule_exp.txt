@@ -1,3 +1,4 @@
 submodule_exp_line1
 
 submodule_exp_line2_from_parent
+ nw line added from test_parent_post2/submodules/test-child_1
