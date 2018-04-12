@@ -1,1 +1,3 @@
 submodule_exp_line1
+
+submodule_exp_line2_from_parent
