@@ -1,0 +1,4 @@
+[submodule "submodules/test-child_1"]
+	path = submodules/test-child_1
+	url = git@github.com:InitiumOne/test_subtree_child.git
+	branch = test_submodule_child_branch
